@@ -8,7 +8,6 @@ import Movies from './Movies';
 
 function App() {
   
-  
   return (
     <><Movies/>
     </>
